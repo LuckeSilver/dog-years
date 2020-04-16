@@ -88,9 +88,7 @@ export default function Home() {
                 onChange={(e) => setPorte(e.target.value)}
                 required
               />
-              <span className="text">
-                De acordo com a raça, qual o porte do seu cão?
-              </span>
+              <span className="text">Qual o porte do seu cão?</span>
               <span className="line"></span>
             </div>
             <h3>
